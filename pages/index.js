@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Oi amor, obrigado por acreditar em mim. Amo Você !! </h1>;
+  return <h1> Website Currently in Build Process </h1>;
 }
 
 export default Home;
